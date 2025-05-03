@@ -1,0 +1,136 @@
+path,name,description,item
+"cam,phnompenh","Cambodia Phnom_Penh cam,phnompenh",,COBBLESTONE
+"cam,phnompenh,market","Cambodia Phnom_Penh cam,phnompenh,market",,COBBLESTONE
+"id,kuta,beachwalk","Indonesia Bali id,kuta,beachwalk",,COBBLESTONE
+"id,bali,badung_regency,south_kuta,ungasan,jalan_merak_2","Indonesia Bali Ungasan id,bali,badung_regency,south_kuta,ungasan,jalan_merak_2",,COBBLESTONE
+"id,aseanhq","Indonesia id,aseanhq",,COBBLESTONE
+"id,CentralJakarta,Gambir,Monas","Indonesia id,CentralJakarta,Gambir,Monas",,COBBLESTONE
+"la,luangprabang,watxiengthong","Laos Luang_Prabang la,luangprabang,watxiengthong",,COBBLESTONE
+"my,jhr,kotaiskandar","Malaysia Johor Iskandar_Puteri my,jhr,kotaiskandar",,COBBLESTONE
+"my,jhr,jhrbhr,JalanIbrahim","Malaysia Johor Johor_Bahru my,jhr,jhrbhr,JalanIbrahim",,COBBLESTONE
+"my,johor,johorbahru,southkey","Malaysia Johor Johor_Bahru my,johor,johorbahru,southkey",,COBBLESTONE
+"my,kdh,ASetar","Malaysia Kedah Alor_Setar my,kdh,ASetar",,COBBLESTONE
+"my,kl,tower","Malaysia Kuala_Lumpur Kuala_Lumpur my,kl,tower",,COBBLESTONE
+"my,klcc","Malaysia Kuala_Lumpur Kuala_Lumpur my,klcc",,COBBLESTONE
+"my,merdeka_118","Malaysia Kuala_Lumpur Kuala_Lumpur my,merdeka_118",,COBBLESTONE
+"my,merderka","Malaysia Kuala_Lumpur Kuala_Lumpur my,merderka",,COBBLESTONE
+"my,wpkl,JlnSyedPutra/JlnDamansara","Malaysia Kuala_Lumpur my,wpkl,JlnSyedPutra/JlnDamansara",,COBBLESTONE
+"my,georgeTown,acheh","Malaysia Penang George_Town my,georgeTown,acheh",,COBBLESTONE
+"my,Penang,georgeTown,mall","Malaysia Penang George_Town my,Penang,georgeTown,mall",,COBBLESTONE
+"my,prk,ipoh","Malaysia Perak Ipoh my,prk,ipoh",,COBBLESTONE
+"my,ptrjy,putrasquare","Malaysia Putrajaya Putrajaya my,ptrjy,putrasquare",,COBBLESTONE
+"my,swk,kch,BulatanMajma","Malaysia Sarawak Kuching my,swk,kch,BulatanMajma",,COBBLESTONE
+"my,swk,kch,JlnMatang","Malaysia Sarawak Kuching my,swk,kch,JlnMatang",,COBBLESTONE
+"my,swk,kch,JlnPadungan","Malaysia Sarawak Kuching my,swk,kch,JlnPadungan",,COBBLESTONE
+"my,swk,kch,JlnRock","Malaysia Sarawak Kuching my,swk,kch,JlnRock",,COBBLESTONE
+"my,swk,kch,OpenAirMarket","Malaysia Sarawak Kuching my,swk,kch,OpenAirMarket",,COBBLESTONE
+"my,swk,kch,Waterfront","Malaysia Sarawak Kuching my,swk,kch,Waterfront",,COBBLESTONE
+"my,swk,miri","Malaysia Sarawak Miri my,swk,miri",,COBBLESTONE
+klang2,Malaysia Selangor Klang_City klang2,,COBBLESTONE
+"my,klang","Malaysia Selangor Klang_City my,klang",,COBBLESTONE
+"my,klang,cityHall","Malaysia Selangor Klang_City my,klang,cityHall",,COBBLESTONE
+"my,selangor,klang","Malaysia Selangor Klang_City my,selangor,klang",,COBBLESTONE
+"my,ptrjy,uitm_dengkil","Malaysia Selangor Sepang my,ptrjy,uitm_dengkil",,COBBLESTONE
+"my,sel,klia,14L","Malaysia Selangor Sepang my,sel,klia,14L",,COBBLESTONE
+"my,sel,klia,15/33","Malaysia Selangor Sepang my,sel,klia,15/33",,COBBLESTONE
+"my,sel,plus","Malaysia Selangor Shah_Alam my,sel,plus",,COBBLESTONE
+"mm,mandalay,palace","Myanmar Mandalay Mandalay mm,mandalay,palace",,COBBLESTONE
+"ph,batangas,oldtaal","Philippines Calabarzon ph,batangas,oldtaal",,COBBLESTONE
+"ph,cavite,kawit,aguinaldoshrine","Philippines Calabarzon ph,cavite,kawit,aguinaldoshrine",,COBBLESTONE
+"ph,kawit,aguinaldoshrine","Philippines Calabarzon ph,kawit,aguinaldoshrine",,COBBLESTONE
+"ph,cebu","Philippines Central_Visayas Cebu_City ph,cebu",,COBBLESTONE
+"ph,cebu,businesspark","Philippines Central_Visayas Cebu_City ph,cebu,businesspark",,COBBLESTONE
+"ph,davao","Philippines Davao_Region Davao_City ph,davao",,COBBLESTONE
+"ph,tablobanCity","Philippines Eastern_Visayas Tacloban ph,tablobanCity",,COBBLESTONE
+"ph,ilocos,vigan","Philippines Ilocos_Region Vigan ph,ilocos,vigan",,COBBLESTONE
+"ph,manila,makati","Philippines Metro_Manila Makati ph,manila,makati",,COBBLESTONE
+"ph,mandaluyong,megamall","Philippines Metro_Manila Mandaluyong ph,mandaluyong,megamall",,COBBLESTONE
+"ph,intramuros,anda","Philippines Metro_Manila Manila ph,intramuros,anda",,COBBLESTONE
+"ph,intramuros,SanAgustin","Philippines Metro_Manila Manila ph,intramuros,SanAgustin",,COBBLESTONE
+"ph,intramuros,south","Philippines Metro_Manila Manila ph,intramuros,south",,COBBLESTONE
+"ph,manila,CatedralMetropolitana","Philippines Metro_Manila Manila ph,manila,CatedralMetropolitana",,COBBLESTONE
+"ph,manila,metroManila,plazaStaCruz","Philippines Metro_Manila Manila ph,manila,metroManila,plazaStaCruz",,COBBLESTONE
+"ph,manila,quiapo","Philippines Metro_Manila Manila ph,manila,quiapo",,COBBLESTONE
+"ph,pasay,edsawest","Philippines Metro_Manila Pasay ph,pasay,edsawest",,COBBLESTONE
+"ph,pasay,moaarena","Philippines Metro_Manila Pasay ph,pasay,moaarena",,COBBLESTONE
+"sg,amk","Singapore Central Ang_Mo_Kio sg,amk",,COBBLESTONE
+"sg,cityhall,padang","Singapore Central Civic_District sg,cityhall,padang",,COBBLESTONE
+"sg,bayfront,mbs","Singapore Central Downtown_Core sg,bayfront,mbs",,COBBLESTONE
+stonesusoffice,Singapore Central Downtown_Core stonesusoffice,,COBBLESTONE
+"sg,chinatown","Singapore Central Outram sg,chinatown",,COBBLESTONE
+"sg,havelock,parkroyal","Singapore Central Outram sg,havelock,parkroyal",,COBBLESTONE
+queenstown_dawson,Singapore Central Queenstown queenstown_dawson,,COBBLESTONE
+"sg,queenstown,dawson_road","Singapore Central Queenstown sg,queenstown,dawson_road",,COBBLESTONE
+"sg,rafflesplace,merlion","Singapore Central Riverside sg,rafflesplace,merlion",,COBBLESTONE
+"sg,seletar,rwy03","Singapore Central Seletar sg,seletar,rwy03",,COBBLESTONE
+"sg,seletar,rwy21","Singapore Central Seletar sg,seletar,rwy21",,COBBLESTONE
+"sg,seletar_airport","Singapore Central Seletar sg,seletar_airport",,COBBLESTONE
+"sg,bukit_merah,interlace","Singapore Central Telok_Blangah sg,bukit_merah,interlace",,COBBLESTONE
+"sg,hougang,plots","Singapore Northeast Hougang sg,hougang,plots",,COBBLESTONE
+"sg,pasir_ris","Singapore Northeast Pasir_Ris sg,pasir_ris",,COBBLESTONE
+codestianhouse,Singapore Northeast Punggol codestianhouse,,COBBLESTONE
+"sg,punggol","Singapore Northeast Punggol sg,punggol",,COBBLESTONE
+"sg,punggol,cove","Singapore Northeast Punggol sg,punggol,cove",,COBBLESTONE
+"sg,punggol_damai","Singapore Northeast Punggol sg,punggol_damai",,COBBLESTONE
+"sg,punggol_interchange","Singapore Northeast Punggol sg,punggol_interchange",,COBBLESTONE
+"sg,punggol_matilda","Singapore Northeast Punggol sg,punggol_matilda",,COBBLESTONE
+"sg,punggol_northshore","Singapore Northeast Punggol sg,punggol_northshore",,COBBLESTONE
+"sg,punggol_oasis","Singapore Northeast Punggol sg,punggol_oasis",,COBBLESTONE
+"sg,punggol_sit","Singapore Northeast Punggol sg,punggol_sit",,COBBLESTONE
+"sg,punggol_station","Singapore Northeast Punggol sg,punggol_station",,COBBLESTONE
+"sg,sengkang","Singapore Northeast Seng_Kang sg,sengkang",,COBBLESTONE
+"sg,tampines","Singapore Northeast Tampines sg,tampines",,COBBLESTONE
+"sg,tampines_east","Singapore Northeast Tampines sg,tampines_east",,COBBLESTONE
+"sg,tampines_mart","Singapore Northeast Tampines sg,tampines_mart",,COBBLESTONE
+"sg,tampines_north","Singapore Northeast Tampines sg,tampines_north",,COBBLESTONE
+"sg,tampines_west","Singapore Northeast Tampines sg,tampines_west",,COBBLESTONE
+"sg,woodlands","Singapore Northwest Woodlands sg,woodlands",,COBBLESTONE
+"sg,yishun","Singapore Northwest Yishun sg,yishun",,COBBLESTONE
+"sg,yishun_east","Singapore Northwest Yishun sg,yishun_east",,COBBLESTONE
+"sg,yishun_east_1","Singapore Northwest Yishun sg,yishun_east_1",,COBBLESTONE
+"sg,yishun_khatib","Singapore Northwest Yishun sg,yishun_khatib",,COBBLESTONE
+"sg,changi_airport","Singapore Southeast Changi sg,changi_airport",,COBBLESTONE
+"sg,geylang_plots","Singapore Southeast Geylang sg,geylang_plots",,COBBLESTONE
+"sg,bukit_batok,east","Singapore Southwest Bukit_Batok sg,bukit_batok,east",,COBBLESTONE
+"sg,cck,keat_hong","Singapore Southwest Choa_Chu_Kang sg,cck,keat_hong",,COBBLESTONE
+"sg,cck,south_view","Singapore Southwest Choa_Chu_Kang sg,cck,south_view",,COBBLESTONE
+"sg,clementi","Singapore Southwest Clementi sg,clementi",,COBBLESTONE
+"sg,jurongeast,imm","Singapore Southwest Jurong_East sg,jurongeast,imm",,COBBLESTONE
+"sg,jurong_point","Singapore Southwest Jurong_West sg,jurong_point",,COBBLESTONE
+"sg,dover_road","Singapore Southwest Queenstown sg,dover_road",,COBBLESTONE
+spawn,spawn MANUAL CHECK THIS (),,COBBLESTONE
+"th,rajamangala","Thailand Bangkok Bang_Kapi_District th,rajamangala",,COBBLESTONE
+"th,ramkhamhaeng,langram","Thailand Bangkok Bang_Kapi_District th,ramkhamhaeng,langram",,COBBLESTONE
+"th,ramkhamhaeng,university","Thailand Bangkok Bang_Kapi_District th,ramkhamhaeng,university",,COBBLESTONE
+"th,CharoenKrung","Thailand Bangkok Bang_Rak_District th,CharoenKrung",,COBBLESTONE
+"th,sirat","Thailand Bangkok Bang_Rak_District th,sirat",,COBBLESTONE
+"th,khlongsan,iconsiam","Thailand Bangkok Khlong_San_District th,khlongsan,iconsiam",,COBBLESTONE
+"th,plearnchit","Thailand Bangkok Khlong_Toei_District th,plearnchit",,COBBLESTONE
+"th,bangkok,nongchok","Thailand Bangkok Nong_Chok_District th,bangkok,nongchok",,COBBLESTONE
+phats,Thailand Bangkok Phra_Nakhon_District phats,,COBBLESTONE
+"th,GiantSwing","Thailand Bangkok Phra_Nakhon_District th,GiantSwing",,COBBLESTONE
+"th,KhaosanRoad","Thailand Bangkok Phra_Nakhon_District th,KhaosanRoad",,COBBLESTONE
+"th,phranakhon,democracymonument","Thailand Bangkok Phra_Nakhon_District th,phranakhon,democracymonument",,COBBLESTONE
+"th,worawihan","Thailand Bangkok Phra_Nakhon_District th,worawihan",,COBBLESTONE
+"th,yotse","Thailand Bangkok Pom_Prap_Sattru_Phai_District th,yotse",,COBBLESTONE
+"th,SiPhraya_Pier","Thailand Bangkok Samphanthawong_District th,SiPhraya_Pier",,COBBLESTONE
+"th,satorn","Thailand Bangkok Sathon_District th,satorn",,COBBLESTONE
+"th,huamak,srinakarin","Thailand Bangkok Suan_Luang_District th,huamak,srinakarin",,COBBLESTONE
+"th,Bangkok,TalingChan,PotisarnpittayakornSchool","Thailand Bangkok Taling_Chan_District th,Bangkok,TalingChan,PotisarnpittayakornSchool",,COBBLESTONE
+"th,talingchan,watkaitai","Thailand Bangkok Taling_Chan_District th,talingchan,watkaitai",,COBBLESTONE
+"th,chiangmai,thaphae","Thailand Chiang_Mai_City_Municipality th,chiangmai,thaphae",,COBBLESTONE
+"th,changrai,mengrai","Thailand Chiang_Rai_City_Municipality th,changrai,mengrai",,COBBLESTONE
+"th,Songkhla,HatYai,RajuthitRoad","Thailand Hat_Yai th,Songkhla,HatYai,RajuthitRoad",,COBBLESTONE
+"th,ayutthaya,WatYaiChaiMongkhon","Thailand Mu_3 th,ayutthaya,WatYaiChaiMongkhon",,COBBLESTONE
+"th,nonthaburi,pakret","Thailand Pak_Kret_City_Municipality th,nonthaburi,pakret",,COBBLESTONE
+"th,ayutthaya,WatRatchaburana","Thailand Phra_Nakhon_Si_Ayutthaya_City_Municipality Mu_1 th,ayutthaya,WatRatchaburana",,COBBLESTONE
+"th,pangpu","Thailand th,pangpu",,COBBLESTONE
+"th,phangnga,khainaiIsland","Thailand th,phangnga,khainaiIsland",,COBBLESTONE
+tree,tree MANUAL CHECK THIS (),,COBBLESTONE
+"vn,vungtau,jesus","Vietnam Bà_Rịa_-_Vũng_Tàu_Province Vũng_Tàu vn,vungtau,jesus",,COBBLESTONE
+kfcVN,Vietnam Ho_Chi_Minh_City kfcVN,,COBBLESTONE
+"vn,hochiminh","Vietnam Ho_Chi_Minh_City vn,hochiminh",,COBBLESTONE
+thisistheplace,Vietnam Hà_Nội thisistheplace,,COBBLESTONE
+"vn,hanoi,badinh,citadel","Vietnam Hà_Nội vn,hanoi,badinh,citadel",,COBBLESTONE
+"vn,KonTum,NgocHoi,LaCamVnBorder","Vietnam Kon_Tum_Province vn,KonTum,NgocHoi,LaCamVnBorder",,COBBLESTONE
+"vn,chuacau","Vietnam Quảng_Nam_Province Hội_An vn,chuacau",,COBBLESTONE
